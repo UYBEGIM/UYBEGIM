@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-color: white;">
     <tr>
       <td>
         <picture>
