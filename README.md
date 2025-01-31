@@ -36,16 +36,15 @@
 <div align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12" 
     media="(prefers-color-scheme: light)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=dark&width=300&text_size=12" 
     media="(prefers-color-scheme: dark)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12" />
 </picture>
-  
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=UYBEGIM&stroke=FF69B4&background=default&ring=FFA500&fire=FF1493&currStreakNum=00BFFF&sideNums=008080&sideLabels=8B008B&dates=1E90FF" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=UYBEGIM&stroke=FF69B4&background=default&ring=FFA500&fire=FF1493&currStreakNum=00BFFF&sideNums=008080&sideLabels=8B008B&dates=1E90FF&width=300&text_size=12" alt="Streak Stats" />
 </a>
 </div>
 
