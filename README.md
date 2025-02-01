@@ -10,7 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/性别 - 男 - #87CEEB?style = for - the - badge&logoColor = white" />
   <img src="https://img.shields.io/badge/星座 - 狮子座 - #FFD700?style = for - the - badge&logoColor = white" />
