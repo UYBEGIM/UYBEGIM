@@ -32,17 +32,17 @@
 
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-color: white;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-color: default;">
     <tr>
       <td>
         <picture>
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12"
+            srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=defaultF&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12"
             media="(prefers-color-scheme: light)" />
           <source
-            srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=dark&width=300&text_size=12"
+            srcset="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=default&text_color=000000&icon_color=000000&theme=dark&width=300&text_size=12"
             media="(prefers-color-scheme: dark)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=FFFFFF&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12" />
+          <img src="https://github-readme-stats.vercel.app/api?username=UYBEGIM&show_icons=true&count_private=true&bg_color=default&text_color=000000&icon_color=000000&theme=default&width=300&text_size=12" />
         </picture>
       </td>
       <td>
